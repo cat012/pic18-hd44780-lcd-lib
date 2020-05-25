@@ -59,7 +59,7 @@ void main(void)
         lcd_char(1);
         lcd_char(3);
 
-        __delay_ms(200);
+        delay_ms(200);
         }
     }
 
